@@ -16,10 +16,6 @@
             <artifactId>spring-cloud-config-server</artifactId>
         </dependency>
         <!-- 添加消息总线RabbitMQ支持 -->
-        <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-bus-amqp</artifactId>
-        </dependency>
         <dependency><!-- 引用自己定义的api通用包，可以使用Payment支付Entity -->
             <groupId>com.hxc.springCloud</groupId>
             <artifactId>Commons-api</artifactId>

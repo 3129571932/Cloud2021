@@ -10,7 +10,7 @@ import sun.applet.Main;
 public class MainClientConfig3355 {
     public static void main(String[] args) {
 
-//        SpringApplication.run(MainClientConfig3355.class,args);
+          SpringApplication.run(MainClientConfig3355.class,args);
 
     }
 }

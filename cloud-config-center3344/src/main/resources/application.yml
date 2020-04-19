@@ -7,9 +7,9 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/3129571932/Cloud2021.git
+          uri: https://github.com/3129571932/spring-config.git
           search-paths:
-            - Cloud2021
+            - spring-config
           skip-ssl-validation: true
       label: master
 eureka:

@@ -10,6 +10,7 @@ spring:
           uri: git@github.com:3129571932/Cloud2021.git
           search-paths:
             - Cloud2021
+          skip-ssl-validation: true
       label: master
 eureka:
   client:

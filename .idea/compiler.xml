@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="EurekaOrder8083" />
+        <module name="EurekaOrder8082" />
+        <module name="EurekaPayment8081" />
+        <module name="EurekaPayment8080" />
+        <module name="cloud-config-center3344" />
+        <module name="cloud-consumer-feign-hysirx-order80" />
+        <module name="ConsulPayment8500" />
+        <module name="Consumer-feign-order80" />
+        <module name="EurekaServer7002" />
+        <module name="EurekaServer7001" />
+        <module name="cloud-gateway9527" />
+        <module name="payment-hystrix8080" />
+        <module name="ZKPayment8083" />
+        <module name="Commons-api" />
+        <module name="ConsulOrder8084" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloud-config-center3344" target="1.8" />
+      <module name="cloud-consumer-feign-hysirx-order80" target="1.8" />
+      <module name="cloud-gateway9527" target="1.8" />
+      <module name="cloud-provider-hystrix-payment8080" target="1.8" />
+      <module name="Cloud2021" target="1.8" />
+      <module name="Commons-api" target="1.8" />
+      <module name="ConsulOrder8084" target="1.8" />
+      <module name="ConsulPayment8500" target="1.8" />
+      <module name="Consumer-feign-order80" target="1.8" />
+      <module name="EurekaOrder8082" target="1.8" />
+      <module name="EurekaOrder8083" target="1.8" />
+      <module name="EurekaPayment8080" target="1.8" />
+      <module name="EurekaPayment8081" target="1.8" />
+      <module name="EurekaServer7001" target="1.8" />
+      <module name="EurekaServer7002" target="1.8" />
+      <module name="payment-hystrix8080" target="1.8" />
+      <module name="ZKOrder8084" target="1.8" />
+      <module name="ZKPayment8083" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

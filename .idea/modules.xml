@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Cloud2021.iml" filepath="$PROJECT_DIR$/.idea/Cloud2021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Commons-api/Commons-api.iml" filepath="$PROJECT_DIR$/Commons-api/Commons-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConsulOrder8084/ConsulOrder8084.iml" filepath="$PROJECT_DIR$/ConsulOrder8084/ConsulOrder8084.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConsulPayment8500/ConsulPayment8500.iml" filepath="$PROJECT_DIR$/ConsulPayment8500/ConsulPayment8500.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Consumer-feign-order80/Consumer-feign-order80.iml" filepath="$PROJECT_DIR$/Consumer-feign-order80/Consumer-feign-order80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaOrder8082/EurekaOrder8082.iml" filepath="$PROJECT_DIR$/EurekaOrder8082/EurekaOrder8082.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaPayment8080/EurekaPayment8080.iml" filepath="$PROJECT_DIR$/EurekaPayment8080/EurekaPayment8080.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaPayment8081/EurekaPayment8081.iml" filepath="$PROJECT_DIR$/EurekaPayment8081/EurekaPayment8081.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaServer7001/EurekaServer7001.iml" filepath="$PROJECT_DIR$/EurekaServer7001/EurekaServer7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaServer7002/EurekaServer7002.iml" filepath="$PROJECT_DIR$/EurekaServer7002/EurekaServer7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZKPayment8083/ZKPayment8083.iml" filepath="$PROJECT_DIR$/ZKPayment8083/ZKPayment8083.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-config-center3344/cloud-config-center3344.iml" filepath="$PROJECT_DIR$/cloud-config-center3344/cloud-config-center3344.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-consumer-feign-hysirx-order80/cloud-consumer-feign-hysirx-order80.iml" filepath="$PROJECT_DIR$/cloud-consumer-feign-hysirx-order80/cloud-consumer-feign-hysirx-order80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-gateway9527/cloud-gateway9527.iml" filepath="$PROJECT_DIR$/cloud-gateway9527/cloud-gateway9527.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment-hystrix8080/payment-hystrix8080.iml" filepath="$PROJECT_DIR$/payment-hystrix8080/payment-hystrix8080.iml" />
+    </modules>
+  </component>
+</project>

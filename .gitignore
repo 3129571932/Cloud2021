@@ -1,0 +1,14 @@
+# Project exclude paths
+/cloud-consumer-feign-hysirx-order80/target/
+/cloud-gateway9527/target/
+/Commons-api/target/
+/ConsulOrder8084/target/
+/ConsulPayment8500/target/
+/Consumer-feign-order80/target/
+/EurekaOrder8082/target/
+/EurekaPayment8080/target/
+/EurekaPayment8081/target/
+/EurekaServer7001/target/
+/EurekaServer7002/target/
+/payment-hystrix8080/target/
+/ZKPayment8083/target/

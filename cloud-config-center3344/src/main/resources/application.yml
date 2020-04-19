@@ -7,9 +7,9 @@ spring:
     config:
       server:
         git:
-          uri: git@github.com:3129571932/springCloud.git
+          uri: git@github.com:3129571932/Cloud2021.git
           search-paths:
-            - springCloud
+            - Cloud2021
       label: master
 eureka:
   client:

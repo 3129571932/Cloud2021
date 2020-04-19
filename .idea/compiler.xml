@@ -22,10 +22,12 @@
         <module name="ZKPayment8083" />
         <module name="Commons-api" />
         <module name="ConsulOrder8084" />
+        <module name="cloud-config-client3355" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="cloud-config-center3344" target="1.8" />
+      <module name="cloud-config-client3355" target="1.8" />
       <module name="cloud-consumer-feign-hysirx-order80" target="1.8" />
       <module name="cloud-gateway9527" target="1.8" />
       <module name="cloud-provider-hystrix-payment8080" target="1.8" />

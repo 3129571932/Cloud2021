@@ -7,7 +7,7 @@ spring:
     config:
       server:
         git:
-          uri: git@github.com:3129571932/Cloud2021.git
+          uri: https://github.com/3129571932/Cloud2021.git
           search-paths:
             - Cloud2021
           skip-ssl-validation: true

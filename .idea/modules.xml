@@ -18,6 +18,9 @@
       <module fileurl="file://$PROJECT_DIR$/cloud-config-client3366/cloud-config-client3366.iml" filepath="$PROJECT_DIR$/cloud-config-client3366/cloud-config-client3366.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-consumer-feign-hysirx-order80/cloud-consumer-feign-hysirx-order80.iml" filepath="$PROJECT_DIR$/cloud-consumer-feign-hysirx-order80/cloud-consumer-feign-hysirx-order80.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-gateway9527/cloud-gateway9527.iml" filepath="$PROJECT_DIR$/cloud-gateway9527/cloud-gateway9527.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/cloud-stream-rabbitmq-consumer8802.iml" filepath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/cloud-stream-rabbitmq-consumer8802.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/cloud-stream-rabbitmq-consumer8803.iml" filepath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/cloud-stream-rabbitmq-consumer8803.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/cloud-stream-rabbitmq-provider8801.iml" filepath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/cloud-stream-rabbitmq-provider8801.iml" />
       <module fileurl="file://$PROJECT_DIR$/payment-hystrix8080/payment-hystrix8080.iml" filepath="$PROJECT_DIR$/payment-hystrix8080/payment-hystrix8080.iml" />
     </modules>
   </component>

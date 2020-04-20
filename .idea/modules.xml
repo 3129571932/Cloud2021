@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/ZKPayment8083/ZKPayment8083.iml" filepath="$PROJECT_DIR$/ZKPayment8083/ZKPayment8083.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-config-center3344/cloud-config-center3344.iml" filepath="$PROJECT_DIR$/cloud-config-center3344/cloud-config-center3344.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-config-client3355/cloud-config-client3355.iml" filepath="$PROJECT_DIR$/cloud-config-client3355/cloud-config-client3355.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-config-client3366/cloud-config-client3366.iml" filepath="$PROJECT_DIR$/cloud-config-client3366/cloud-config-client3366.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-consumer-feign-hysirx-order80/cloud-consumer-feign-hysirx-order80.iml" filepath="$PROJECT_DIR$/cloud-consumer-feign-hysirx-order80/cloud-consumer-feign-hysirx-order80.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-gateway9527/cloud-gateway9527.iml" filepath="$PROJECT_DIR$/cloud-gateway9527/cloud-gateway9527.iml" />
       <module fileurl="file://$PROJECT_DIR$/payment-hystrix8080/payment-hystrix8080.iml" filepath="$PROJECT_DIR$/payment-hystrix8080/payment-hystrix8080.iml" />

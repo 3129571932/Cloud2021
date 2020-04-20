@@ -12,7 +12,18 @@ spring:
             - spring-config
           skip-ssl-validation: true
       label: master
+      #rabbitmq 相关配置
+  rabbitmq:
+    host: 192.168.181.133
+    port: 5672
+    username: admin
+    password: admin
 eureka:
   client:
     service-url:
       defaultZone: http://eureka7001.com:7001/eureka/,http://eureka7002.com:7002/eureka/
+management:
+  endpoints: #暴露bus刷新配置的端点
+    web:
+      exposure:
+        include: 'bus-refresh'

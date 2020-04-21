@@ -12,6 +12,10 @@
     <artifactId>EurekaOrder8082</artifactId>
     <dependencies>
         <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-zipkin</artifactId>
+        </dependency>
+        <dependency>
             <groupId>com.hxc.springCloud</groupId>
             <artifactId>Commons-api</artifactId>
             <version>1.0-SNAPSHOT</version>

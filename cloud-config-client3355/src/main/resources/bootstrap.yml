@@ -10,7 +10,7 @@ spring:
       profile: dev #读取后缀名称 上诉3个综合就是 master分支上 config-dev.yml
       uri: http://localhost:3344
   rabbitmq:
-    host: 192.168.1.6
+    host: 192.168.1.5
     port: 5672
     username: admin
     password: admin

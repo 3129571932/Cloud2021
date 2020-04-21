@@ -11,7 +11,7 @@ spring:
           environment: #设置rabbitmq的相关环境配置
             spring:
               rabbitmq:
-                host: 192.168.181.139
+                host: 192.168.1.6
                 port: 5672
                 username: admin
                 password: admin

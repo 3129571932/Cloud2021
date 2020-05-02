@@ -13,6 +13,10 @@
       <module fileurl="file://$PROJECT_DIR$/EurekaServer7001/EurekaServer7001.iml" filepath="$PROJECT_DIR$/EurekaServer7001/EurekaServer7001.iml" />
       <module fileurl="file://$PROJECT_DIR$/EurekaServer7002/EurekaServer7002.iml" filepath="$PROJECT_DIR$/EurekaServer7002/EurekaServer7002.iml" />
       <module fileurl="file://$PROJECT_DIR$/ZKPayment8083/ZKPayment8083.iml" filepath="$PROJECT_DIR$/ZKPayment8083/ZKPayment8083.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba-nacos-order80/cloud-alibaba-nacos-order80.iml" filepath="$PROJECT_DIR$/cloud-alibaba-nacos-order80/cloud-alibaba-nacos-order80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba-nacos-payment-provider9001/cloud-alibaba-nacos-payment-provider9001.iml" filepath="$PROJECT_DIR$/cloud-alibaba-nacos-payment-provider9001/cloud-alibaba-nacos-payment-provider9001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba-nacos-payment-provider9002/cloud-alibaba-nacos-payment-provider9002.iml" filepath="$PROJECT_DIR$/cloud-alibaba-nacos-payment-provider9002/cloud-alibaba-nacos-payment-provider9002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba-sentinel/cloud-alibaba-sentinel.iml" filepath="$PROJECT_DIR$/cloud-alibaba-sentinel/cloud-alibaba-sentinel.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-config-center3344/cloud-config-center3344.iml" filepath="$PROJECT_DIR$/cloud-config-center3344/cloud-config-center3344.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-config-client3355/cloud-config-client3355.iml" filepath="$PROJECT_DIR$/cloud-config-client3355/cloud-config-client3355.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-config-client3366/cloud-config-client3366.iml" filepath="$PROJECT_DIR$/cloud-config-client3366/cloud-config-client3366.iml" />

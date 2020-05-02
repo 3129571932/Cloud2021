@@ -12,7 +12,10 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/EurekaOrder8083/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-nacos-provider9001/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-nacos-provider9002/pom.xml" />
         <option value="$PROJECT_DIR$/cloud-provider-hystrix-payment8080/pom.xml" />
+        <option value="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/pom.xml" />
       </set>
     </option>
   </component>

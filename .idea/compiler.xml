@@ -7,44 +7,56 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="cloudalibaba-provider-payment9002" />
         <module name="EurekaOrder8083" />
+        <module name="cloudalibaba-provider-payment9001" />
+        <module name="cloud-alibaba-nacos-payment-provider9002" />
         <module name="EurekaPayment8081" />
         <module name="EurekaPayment8080" />
-        <module name="cloud-config-center3344" />
+        <module name="cloud-alibaba-sentinel" />
+        <module name="cloud-alibaba-nacos-payment-provider9001" />
         <module name="cloud-consumer-feign-hysirx-order80" />
-        <module name="ConsulPayment8500" />
+        <module name="cloud-config-center3344" />
+        <module name="cloud-alibaba-nacos-order80" />
+        <module name="Consumer-feign-order80" />
         <module name="cloud-stream-rabbitmq-consumer8803" />
         <module name="cloud-stream-rabbitmq-consumer8802" />
-        <module name="Consumer-feign-order80" />
+        <module name="cloudalibaba-consumer-nacos-order84" />
+        <module name="ConsulPayment8500" />
         <module name="EurekaServer7002" />
         <module name="cloudalibaba-consumer-nacos-order83" />
         <module name="cloud-gateway9527" />
         <module name="cloud-stream-rabbitmq-provider8801" />
         <module name="payment-hystrix8080" />
         <module name="ZKPayment8083" />
-        <module name="cloud-config-client3366" />
-        <module name="cloudalibaba-provider-payment9001" />
+        <module name="cloudalibaba-provider-payment9002" />
+        <module name="EurekaOrder8082" />
         <module name="EurekaServer7001" />
         <module name="Commons-api" />
         <module name="cloudalibaba-nacos-config-client3377" />
         <module name="cloud-config-client3355" />
         <module name="ConsulOrder8084" />
-        <module name="EurekaOrder8082" />
+        <module name="cloud-config-client3366" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="cloud-alibaba-nacos-order80" target="1.8" />
+      <module name="cloud-alibaba-nacos-payment-provider9001" target="1.8" />
+      <module name="cloud-alibaba-nacos-payment-provider9002" target="1.8" />
+      <module name="cloud-alibaba-sentinel" target="1.8" />
       <module name="cloud-config-center3344" target="1.8" />
       <module name="cloud-config-client3355" target="1.8" />
       <module name="cloud-config-client3366" target="1.8" />
       <module name="cloud-consumer-feign-hysirx-order80" target="1.8" />
       <module name="cloud-gateway9527" target="1.8" />
+      <module name="cloud-nacos-provider9001" target="1.8" />
+      <module name="cloud-nacos-provider9002" target="1.8" />
       <module name="cloud-provider-hystrix-payment8080" target="1.8" />
       <module name="cloud-stream-rabbitmq-consumer8802" target="1.8" />
       <module name="cloud-stream-rabbitmq-consumer8803" target="1.8" />
       <module name="cloud-stream-rabbitmq-provider8801" target="1.8" />
       <module name="Cloud2021" target="1.8" />
       <module name="cloudalibaba-consumer-nacos-order83" target="1.8" />
+      <module name="cloudalibaba-consumer-nacos-order84" target="1.8" />
       <module name="cloudalibaba-nacos-config-client3377" target="1.8" />
       <module name="cloudalibaba-provider-payment9001" target="1.8" />
       <module name="cloudalibaba-provider-payment9002" target="1.8" />

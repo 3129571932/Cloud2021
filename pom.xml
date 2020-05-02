@@ -31,6 +31,10 @@
         <module>cloudalibaba-provider-payment9002</module>
         <module>cloudalibaba-consumer-nacos-order83</module>
         <module>cloudalibaba-nacos-config-client3377</module>
+        <module>cloud-alibaba-sentinel</module>
+        <module>cloud-alibaba-nacos-payment-provider9001</module>
+        <module>cloud-alibaba-nacos-order80</module>
+        <module>cloud-alibaba-nacos-payment-provider9002</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -109,16 +113,5 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
-    <build>
-        <plugins>
-            <plugin>
-                <groupId>org.springframework.boot</groupId>
-                <artifactId>spring-boot-maven-plugin</artifactId>
-                <configuration>
-                    <fork>true</fork>
-                    <addResources>true</addResources>
-                </configuration>
-            </plugin>
-        </plugins>
-    </build>
+    
 </project>

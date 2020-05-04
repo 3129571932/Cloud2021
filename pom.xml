@@ -35,6 +35,9 @@
         <module>cloud-alibaba-nacos-payment-provider9001</module>
         <module>cloud-alibaba-nacos-order80</module>
         <module>cloud-alibaba-nacos-payment-provider9002</module>
+        <module>seata-order-service2001</module>
+        <module>seata-storage-service2002</module>
+        <module>seata-account-service2003</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

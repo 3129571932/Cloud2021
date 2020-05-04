@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.hxc.springCloud:commons-api:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/mvn repo/com/hxc/springCloud/Commons-api/1.0-SNAPSHOT/Commons-api-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/mvn repo/com/hxc/springCloud/commons-api/1.0-SNAPSHOT/commons-api-1.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/mvn repo/com/hxc/springCloud/commons-api/1.0-SNAPSHOT/commons-api-1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
